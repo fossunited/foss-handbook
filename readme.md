@@ -1,6 +1,6 @@
- This is a git repository forked by AMFOSS and released under the GPL License v2.0. 
+ 
 
-## Introduction
+#ugb Introduction
 This repository is specially made for students and contains a list of resources including blogs, articles, writeups, playgrounds and etc. The repository includes resources for various domains in tech including FOSS, Tinkering, Cyber-security, Linux, Hardware, Programming, Hacker Culture, Functional Programming and etc.
 
 We support DIY (Do It Yourself), and most of the websites in the below list are distraction less and we are trying to provide more and more quality resources.
@@ -30,7 +30,7 @@ The list is still under construction and work in progress, with time it will exp
 
 #### Design
 - [The musings of a designer on what he loves about the design and what he's learned along the way](https://lessons.design/)
-- [Designs That Don't Suck](A non sucky infographic explaining what it is that makes it not suck.)
+- [Designs That Don't Suck](https://www.curiositry.com/designs-that-don-t-suck/)
 
 #### Programming 
 - [A start to programming](https://theevilskeleton.gitlab.io/2022/10/10/how-I-started-programming-and-how-you-can-too.html#bottles)
