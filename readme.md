@@ -16,7 +16,7 @@ The list is still under construction and work in progress, with time it will exp
 
 #### Linux 
 - [Why You should Absolutely be using Linux!](http://cheapskatesguide.org/articles/use-linux.html) 
-- [LinuxJourney][https://linuxjourney.com/] - Great resource for a beginner in Linux
+- [LinuxJourney](https://linuxjourney.com/) - Great resource for a beginner in Linux
 - [The Linux Documentation Project](https://www.tldp.org/)
 - [Linux Users vs Linux Culture](https://www.linuxjournal.com/content/linux-users-vs-linux-culture)
 - [Kernel Newbies](https://kernelnewbies.org/)
