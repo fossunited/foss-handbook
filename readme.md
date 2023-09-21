@@ -1,6 +1,6 @@
  
 
-#ugb Introduction
+# Introduction
 This repository is specially made for students and contains a list of resources including blogs, articles, writeups, playgrounds and etc. The repository includes resources for various domains in tech including FOSS, Tinkering, Cyber-security, Linux, Hardware, Programming, Hacker Culture, Functional Programming and etc.
 
 We support DIY (Do It Yourself), and most of the websites in the below list are distraction less and we are trying to provide more and more quality resources.
