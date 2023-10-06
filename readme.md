@@ -50,6 +50,8 @@ The list is still under construction and work in progress, with time it will exp
 - [The Linux Command Line](https://amzn.eu/d/duC8XAR)
 - [The GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 - [Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier](https://amzn.eu/d/icZwC4J)
+- [Free Software, Free Society: Selected Essays of Richard M. Stallman](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+- [The Markdown Guide by Matt Cone](https://zlib.pub/download-file/the-markdown-guide-1s1is7cdfv5o?hash=ca127a7add72038728c9bb419cf18043)
 
 #### Blogging Platforms
 - [Bear Blog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjuteSwwbaBAxXOTmwGHYIvD5cQFnoECAcQAQ&url=https%3A%2F%2Fbearblog.dev%2F&usg=AOvVaw3BTv6UgFW3Jn46ATMdSUMr&opi=89978449)
