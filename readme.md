@@ -57,6 +57,7 @@ The list is still under construction and work in progress, with time it will exp
 - [Bear Blog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjuteSwwbaBAxXOTmwGHYIvD5cQFnoECAcQAQ&url=https%3A%2F%2Fbearblog.dev%2F&usg=AOvVaw3BTv6UgFW3Jn46ATMdSUMr&opi=89978449)
 - [Build your own blog with Zola](https://www.getzola.org/documentation/getting-started/overview/)
 - [SSG5 - A 150 Line Posix Script to generate your blog](https://fmash16.github.io/content/posts/ssg5_site.html)
+- [Blogging with Quarto](https://themohitnair.github.io/theskywalkerarena/posts/Post2-Quarto/)
 
 #### Cyber Security 
 - [How to start learning about Cyber Security ?](https://cybernity.group/t/how-to-start-learning-about-hacking-cybersec-world/156?u=mangeshrex)
