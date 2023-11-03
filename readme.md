@@ -21,7 +21,8 @@ The list is still under construction and work in progress, with time it will exp
 - [Linux Users vs Linux Culture](https://www.linuxjournal.com/content/linux-users-vs-linux-culture)
 - [Kernel Newbies](https://kernelnewbies.org/)
 - [Shell scripting](https://shellscript.sh)
-- [Command Line Cheat-sheet](https://cheat.sh) 
+- [Command Line Cheat-sheet](https://cheat.sh)
+- [FAQs about Linux](http://linuxmafia.com/~rick/faq/)
 
 #### Tinkering
 - [Long term searching: rules and advice]()
