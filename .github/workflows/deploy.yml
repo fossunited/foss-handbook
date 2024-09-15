@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - feat/mdbook
 
 jobs:
   deploy:
@@ -35,7 +34,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'book'
+          path: 'foss-club-handbook/book'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
