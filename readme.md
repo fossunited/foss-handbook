@@ -10,7 +10,6 @@ The list is still under construction and work in progress, with time it will exp
 #### FOSS 
 - [FOSS and FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) 
 - [On FOSS and Licenses](https://port19.xyz/tech/licenses/)
-- [The GNU]()
 - [The "Atmanirbharata" of Open Source Software](https://nadh.in/blog/the-atmanirbhartha-of-open-source-software/) 
 - [Why Software should be free](https://www.gnu.org/philosophy/shouldbefree.html)
 
@@ -25,7 +24,7 @@ The list is still under construction and work in progress, with time it will exp
 - [FAQs about Linux](http://linuxmafia.com/~rick/faq/)
 
 #### Tinkering
-- [Long term searching: rules and advice]()
+- [Long term searching: rules and advice](https://web.maths.unsw.edu.au/~lafaye/www.searchlores.org/longtermsearching.htm)
 - [Tilde Team](https://tilde.team/) 
 - [Discover the real Internet with Wiby](https://coxy.co/3141/wiby-search-engine/)
 
@@ -41,21 +40,21 @@ The list is still under construction and work in progress, with time it will exp
 
 #### Hacker Culture 
 - [How to Become a Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
-- [ESR's FAQ Collection](http://www.catb.org/esr/faqs/)
+- [Eric S Raymond's FAQ Collection](http://www.catb.org/esr/faqs/)
 
 #### Books
-- [Open Sources: Voices from the Open Source Revolution](https://a.co/d/2w1AuAh) 
-- [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://amzn.eu/d/bfwrn4T) 
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) 
+- [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://www.catb.org/~esr/writings/cathedral-bazaar/) 
 - [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer)
-- [Pure Bash Bible](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiIha7BwraBAxUxSmwGHSnhAwoQFnoECBgQAQ&url=https%3A%2F%2Fgithub.com%2Fdylanaraps%2Fpure-bash-bible&usg=AOvVaw2A893DwUiVoEnMqJ3DOnJ6&opi=89978449) 
-- [The Linux Command Line](https://amzn.eu/d/duC8XAR)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) 
+- [The Linux Command Line](https://www.linuxcommand.org/tlcl.php)
 - [The GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-- [Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier](https://amzn.eu/d/icZwC4J)
+- [Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier](https://www.gutenberg.org/ebooks/4686)
 - [Free Software, Free Society: Selected Essays of Richard M. Stallman](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 - [The Markdown Guide by Matt Cone](https://zlib.pub/download-file/the-markdown-guide-1s1is7cdfv5o?hash=ca127a7add72038728c9bb419cf18043)
 
 #### Blogging Platforms
-- [Bear Blog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjuteSwwbaBAxXOTmwGHYIvD5cQFnoECAcQAQ&url=https%3A%2F%2Fbearblog.dev%2F&usg=AOvVaw3BTv6UgFW3Jn46ATMdSUMr&opi=89978449)
+- [Bear Blog](https://bearblog.dev/)
 - [Build your own blog with Zola](https://www.getzola.org/documentation/getting-started/overview/)
 - [SSG5 - A 150 Line Posix Script to generate your blog](https://fmash16.github.io/content/posts/ssg5_site.html)
 - [Blogging with Quarto](https://themohitnair.github.io/theskywalkerarena/posts/Post2-Quarto/)
