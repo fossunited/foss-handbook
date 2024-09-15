@@ -67,3 +67,5 @@ The list is still under construction and work in progress, with time it will exp
 - [Hackaday](https://hackaday.com/) - Includes a lot of ideas, articles about Hardware projects done by people all around the world.
 - [Hardware, Software](https://robotsinplainenglish.com/e/2023-01-15-hw-sw.html)
 
+#### Media
+- [Reclaim your freedom with free libre software now - Richard Stallman of Free Software Movement](https://archive.org/details/reclaim-your-freedom-with-free-libre-software-now-richard-stallman)
